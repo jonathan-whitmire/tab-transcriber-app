@@ -1,0 +1,71 @@
+.tab-container {
+  display: relative;
+  width: 100%;
+  padding: 50px 0px 30px 20px;
+}
+
+.line1 {
+  color: blue;
+  font-size: 170%;
+  position: absolute;
+  left: 10%;
+  margin-top: -15.1%;
+}
+
+.line2 {
+  color: blue;
+  font-size: 170%;
+  position: absolute;
+  left: 10%;
+  margin-top: -12.2%;
+}
+
+.line3 {
+  color: blue;
+  font-size: 170%;
+  position: absolute;
+  left: 10%;
+  margin-top: -9%;
+}
+
+.line4 {
+  color: blue;
+  font-size: 170%;
+  position: absolute;
+  left: 10%;
+  margin-top: -6%;
+} 
+
+.noterest {
+  position: absolute;
+  left: 9.75%;
+  margin-top: -2.3%;
+}
+
+.headerImg {
+  border-top: 10px  solid silver;
+  border-bottom: 10px solid silver;
+}
+
+.header {
+  position: relative;
+  padding: 150px 150px 150px 150px; 
+  color: white;
+}
+
+.fbcontainer { 
+  position: relative;
+  width: 100%;
+}
+
+button:hover {
+  background-color: black;
+  color: yellow;
+} 
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: rgb(110, 130, 231);
+    padding-left: 15%;
+}
